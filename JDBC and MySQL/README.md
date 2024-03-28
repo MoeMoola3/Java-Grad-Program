@@ -8,4 +8,4 @@
 * Reading and writing BLOB and CLOB data files
 * Configuring database connection information with properties files
 
-Course link: https://dvt.udemy.com/course/how-to-connect-java-jdbc-to-mysql/learn/lecture/4646886?start=1#overview
+Course link: https://www.udemy.com/course/java-jdbc-with-oracle
