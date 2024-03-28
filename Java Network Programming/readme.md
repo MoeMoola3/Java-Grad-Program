@@ -9,4 +9,4 @@
 * Transfering data between server/client applications running on different machines on the network.
 * Port Scanner, Browse the Internet, Web Scraping, Get network interface properties, Validate IP Addresses, Ping a remote host
 
-Course link: https://dvt.udemy.com/course/java-network-programming/learn/lecture/5739822?start=1#overview
+Course link: https://www.udemy.com/course/java-network-programming
