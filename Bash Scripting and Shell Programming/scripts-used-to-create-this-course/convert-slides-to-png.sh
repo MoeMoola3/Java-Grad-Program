@@ -21,4 +21,4 @@ SLIDES=${SLIDES,,}
 SLIDES=$(basename $SLIDES)
 
 # Convert the PDF into a series of images.
-convert -density 300 "$PDF" -quality 100 $SLIDES
+convert -density 300 "$PDF" -quality 100 $SLIDES 
