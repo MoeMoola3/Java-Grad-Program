@@ -20,3 +20,4 @@ echo $OUT_FILE
 
 # Clean up.
 rm $TMP_FILE
+ 
