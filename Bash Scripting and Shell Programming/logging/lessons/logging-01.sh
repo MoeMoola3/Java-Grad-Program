@@ -20,3 +20,4 @@ logit () {
 logit INFO "Processing data."
 
 fetch-data $HOST || logit ERROR "Could not fetch data from $HOST"
+ 
