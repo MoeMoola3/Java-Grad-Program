@@ -19,7 +19,7 @@ function backup_file () {
 }
 
 # Call the function
-backup_file /etc/hosts
+backup_file /etc/hosts 
 
 # Make a decision based on the exit status of the function.
 # Note this is for demonstration purposes.  You could have
