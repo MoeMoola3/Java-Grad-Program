@@ -9,3 +9,4 @@ function my_logger() {
 my_logger "Random number: $RANDOM"
 my_logger "Random number: $RANDOM"
 my_logger "Random number: $RANDOM"
+ 
