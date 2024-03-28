@@ -9,4 +9,4 @@
 * Code Quality – Understanding how Jenkins can integrate with code quality tools like SonarQube to highlight any issues with the developer code.
 * Automated Build, Test & Deployments - Understanding how Jenkins can trigger maven scripts to start a build, how it can integrate with Selenium to automate functional testing & finally see how it can help with deploying the executables on web servers.
 
-Course link: https://dvt.udemy.com/course/jenkins-course-devops-cicd-complete-reference/learn/lecture/11766112?start=0#overview
+Course link: https://www.udemy.com/course/jenkins-course-devops-cicd-complete-reference
