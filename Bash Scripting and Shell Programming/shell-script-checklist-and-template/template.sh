@@ -16,3 +16,4 @@ function function_one() {
 
 # Exit with an explicit exit status.
 exit 0
+ 
