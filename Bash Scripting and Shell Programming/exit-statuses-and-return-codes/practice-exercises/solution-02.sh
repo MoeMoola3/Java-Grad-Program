@@ -14,3 +14,4 @@ else
   echo "$FILE is something other than a regular file or directory."
   exit 2
 fi
+ 
