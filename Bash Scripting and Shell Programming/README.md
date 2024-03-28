@@ -5,4 +5,4 @@
 * Automated tasks using shell scripts.
 * Created complex scripts that take advantage of advanced bash shell features.
 
-Course link: https://dvt.udemy.com/course/bash-scripting/learn/lecture/5748232?start=1#overview
+Course link: https://www.udemy.com/course/bash-scripting/
