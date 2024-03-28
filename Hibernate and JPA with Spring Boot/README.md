@@ -8,4 +8,4 @@
 * Basics of caching - First Level Cache and Second Level Cache with EhCache
 * Basics of Spring Data JPA and Spring Data REST
 
-Course link: https://dvt.udemy.com/course/hibernate-jpa-tutorial-for-beginners-in-100-steps/learn/lecture/32400020?start=15#overview
+Course link: https://www.udemy.com/course/hibernate-jpa-tutorial-for-beginners-in-100-steps
