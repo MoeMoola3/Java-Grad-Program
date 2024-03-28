@@ -6,4 +6,4 @@ This directory contains the 3 projects built to complete this course
 * Legacy Web Crawler
 * UdaSecurity
 
-Course link: https://www.udacity.com/course/java-programming-nanodegree--nd079
+Course link: https://www.udacity.com/course/java-programming-nanodegree--nd079 
