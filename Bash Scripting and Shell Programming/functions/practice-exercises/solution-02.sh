@@ -10,3 +10,4 @@ function file_count() {
 file_count /etc
 file_count /var
 file_count /usr/bin
+ 
