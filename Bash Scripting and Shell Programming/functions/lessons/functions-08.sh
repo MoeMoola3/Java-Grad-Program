@@ -11,3 +11,4 @@ my_function
 
 # GLOBAL_VAR is NOW available
 echo "GLOBAL_VAR value AFTER my_function called: $GLOBAL_VAR"
+ 
