@@ -5,3 +5,4 @@ set -x
 echo $TEST_VAR
 set +x
 hostname
+ 
