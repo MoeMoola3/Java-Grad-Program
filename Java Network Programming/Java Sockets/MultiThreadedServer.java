@@ -24,7 +24,7 @@ public class MultiThreadedServer
                 System.out.println("Waiting for clients...");
                 Socket clientSocket = serverSocket.accept();
                 System.out.println("Client is connected.");
-                ClientThread clientThread = new ClientThread(clientSocket);
+                ClientThread clientThread = new ClientThread(clientSocket); 
                 clientThread.start();
             }
         }
